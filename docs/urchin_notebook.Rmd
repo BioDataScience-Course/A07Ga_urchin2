@@ -1,0 +1,54 @@
+---
+title: 'EBiométrie de l'oursin violet'
+author: '___'
+date: "___"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+SciViews::R
+```
+
+# Introduction 
+
+<!--% Introduisez en quelques phrases le sujet dont traite votre notebook. Vous avez la liberté de décider la thématique qui vous intéresse sur base des données mises à votre disposition. -->
+
+# Analyses
+
+<!--% Un notebook contient une succession de graphiques, de tableaux ou encore d'analyses qui traite du sujet que vous avez décidé de traiter. N'hésitez à pas à tester plusieurs variables. -->
+
+## Visualisation I : nuage de points 
+
+<!--% Vous devez proposer au minimum 2 graphiques et au maximum 4 graphiques afin d'explorer les données. Commentez les en 2-3 phrases. -->
+
+## Visualisation II : distribution
+
+<!--% Vous devez proposer au minimum 2 graphiques et au maximum 4 graphiques afin d'explorer les données. Commentez les en 2-3 phrases. -->
+
+## Visualisation III : graphique en barre et boite de dispersion 
+
+<!--% Vous devez proposer au minimum 2 graphiques et au maximum 4 graphiques afin d'explorer les données. Commentez les en 2-3 phrases. -->
+
+## Transformation des données I et II
+
+<!--% Vous devez proposer au minimum 2 tableaux et au maximum 4 tableaux qui résument vos données. Commentez les en 2-3 phrases. -->
+
+## Chi^2^
+
+<!--% Si la réalisation d'un test de Chi^2^ se prête à vos données, réalisé au minimum 1 et au maximum 2 tests. Commentez les en maximum 5 phrases. --> 
+
+## Moyenne 
+
+<!--% Si la réalisation d'un test de Student se prête à vos données, réalisé au minimum 1 et au maximum 2 tests. Commentez les en maximum 5 phrases. --> 
+
+## Variance I
+
+<!--% Si la réalisation d'un test d'ANOVA se prête à vos données, réalisé au minimum 1 et au maximum 2 tests. Commentez les en maximum 5 phrases. --> 
+
+## Variance II
+
+<!--% Si la réalisation d'un test d'ANOVA à 2 facteurs se prête à vos données, réalisé au minimum 1 et au maximum 2 tests. Commentez les en maximum 5 phrases. --> 
+
+## Corrélation
+
+<!--% Si la réalisation d'un test de corrélation se prête à vos données, réalisé au minimum 1 et au maximum 2 tests. Commentez les en maximum 5 phrases. --> 

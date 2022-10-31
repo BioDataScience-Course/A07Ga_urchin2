@@ -1,0 +1,48 @@
+---
+title: "Les oursins violets"
+author: '...'
+date: "..."
+output: html_document
+---
+
+```{r setup, include=FALSE}
+SciViews::R
+```
+
+# Introduction
+
+<!---
+Présentez les organismes de cette étude. Vous devez être synthétique entre 5 et 10 phrases.
+--->
+
+# But
+
+<!---
+Présentez votre but.Vous devez être synthétique entre 2 et 5 phrases. 
+
+Un lecteur doit être capable de comprendre l'intérêt de votre travail après avoir lu l'introduction et le but.
+--->
+
+# M&M
+
+<!---
+Présentez les outils informatiques que vous utilisez. Soyez précis
+--->
+
+# Résultats
+
+<!---
+Cette section doit proposer des graphiques, tableaux et analyses qui proviennent du notebook de ce projet et que vous considérez comme pertinent pour répondre à la question que vous vous posez.
+--->
+
+# Discussion 
+
+<!---
+Cette section doit proposer une interprétation biologique des résultats que vous avez sélectionnés pour votre rapport.
+--->
+
+# Conclusion
+
+<!---
+Proposez une conclusion à votre travail de maximum 5 phrases.
+--->
